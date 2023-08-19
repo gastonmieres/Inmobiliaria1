@@ -20,7 +20,7 @@ fetch(DATA_CASAS)
                     <h2 class="barrio">Barrio: ${casa.barrio}</h2>
                     <h2 class="precio">Precio: ${casa["precio alquiler"]}</h2>
                     <h2 class="habitaciones">Habitaciones: ${casa.habitaciones}</h2>
-                    <img class="img" src='${casa.img}'></img>
+                    <img class="img" src='${casa.img}' alt="Imagen de la casa"></img>
                 </div>`;
         });
         mostrarResultados.innerHTML = content;
