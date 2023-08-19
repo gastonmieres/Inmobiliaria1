@@ -1,0 +1,36 @@
+{
+    "casas": [
+        {
+        "direccion": "Gral. Brito del Pino 1065",
+        "barrio": "Pocitos",
+        "precio alquiler": "63000",
+        "habitaciones": "1", 
+        "id": "1",
+        "img":"https://cdn2.infocasas.com.uy/repo/img/th.outside268x225.3992393f7ef4e64bfaf929a460bf23affb7f6604.jpg"
+    },
+    {
+        "direccion": "Bonpland 507",
+        "barrio": "Parque Rodó",
+        "precio alquiler": "49000",
+        "habitaciones": "2", 
+        "id":"2",
+        "img":"https://cdn2.infocasas.com.uy/repo/img/th.outside268x225.1126_nai_245_251_775.jpg"
+    },
+    {
+        "direccion": "Calle Perez Castellano 1404",
+        "barrio": "Ciudad Vieja",
+        "precio alquiler": "38000",
+        "habitaciones": "2", 
+        "id": "3",
+        "img":"https://cdn2.infocasas.com.uy/repo/img/th.outside268x225.3f11d1d175a61f0d769ef7fd658ed48ed2aba566.jpg"
+    },
+    {
+        "direccion": "Av. Buschental 3390",
+        "barrio": "Prado",
+        "precio alquiler": "60000",
+        "habitaciones": "6", 
+        "id": "4",
+        "img":"https://cdn2.infocasas.com.uy/repo/img/th.outside268x225.b4c43dd4cc46eb7dc6df48dee71c34c40f97f7fc.jpeg"
+    }
+    ]
+}
