@@ -1,4 +1,4 @@
-const DATA_CASAS = "/inmobiliaria.json";
+const DATA_CASAS = "inmobiliaria.json";
 
 const mostrarResultados = document.getElementsByClassName("casas-contenedor")[0];
 
